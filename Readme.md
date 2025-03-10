@@ -1,14 +1,13 @@
-# Hi there, I'm Akshay Kumar Huliyar Prabhakara 👋
+# Hi there, I'm Ashwin Shankarnarayana 👋
 
-**Computer Science Graduate Student at Syracuse University | Software Engineer | Full-stack Developer**
+**Computer Engineering Graduate Student at Syracuse University | Software Engineer | Full-stack Developer**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshaykumarhp&color=blueviolet&style=flat-square) 
 
-- 🔭 I’m currently working as a Graduate Research Assistant at Syracuse University, developing spectrum management algorithms and front-end components for the Zone Management System (ZMS) project.
 - 🌱 I’m currently expanding my knowledge in **Machine Learning**, **NLP**, and **Software Development**.
 - 👯 I’m open to collaborating on projects related to **Web Development**, **Machine Learning**, and **Cloud Computing**.
 - 💬 Ask me about **JavaScript, React.js, Python**, or anything related to **full-stack development**.
-- 📫 How to reach me: [ahuliyar@syr.edu](mailto:ahuliyar@syr.edu)
+- 📫 How to reach me: [ashank02@syr.edu](mailto:ashank02@syr.edu)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm passionate about creating user-friendly web applications and optimizing systems for performance and scalability.
 
@@ -64,23 +63,23 @@
 
 | 🎓 **University**                                | 🎯 **Degree**                              | 📊 **GPA**  | 🎓 **Graduation**        | 📚 **Relevant Courses**                                                                                             |
 |-----------------------------------------------|-----------------------------------------|----------|-----------------------|-------------------------------------------------------------------------------------------------------------------|
-| Syracuse University                           | Master of Science in Computer Science   | 3.5/4.0  | Expected May 2025      | Design & Analysis of Algorithms, Object-Oriented Design, Machine Learning, Database Systems, NLP, Cryptography    |
-| Visvesvaraya Technological University         | Bachelor of Engineering in E&C          | 8.33/10  | May 2023               | Computer Networks, Data Structures, Artificial Intelligence, Computer Architecture, Probability and Statistics     |
+| Syracuse University                           | Master of Science in Computer Engineering   | 3.51/4.0  | Expected May 2025      | Design & Analysis of Algorithms, Object-Oriented Design, Machine Learning, Database Systems, NLP, Cryptography    |
+| Visvesvaraya Technological University         | Bachelor of Engineering in E&T          | 8.01/10  | May 2023               | Computer Networks, Data Structures, Artificial Intelligence, Computer Architecture, Probability and Statistics     |
 
 ## 🌟 Featured Projects
 
 | **Project**                                                                                               | **Description**                                                                                                                                           | **Tech Stack**                           |
 |----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| [EdTech Platform](https://github.com/akshaykumarhp/EdTech-Platform)                                      | Developed an interactive learning platform converting static textbook content into engaging material for children in grades 1-10. Included OCR technology and OpenAI API for automated lesson plan creation.   | OCR, OpenAI API, React, Node.js          |
-| [Driver Monitoring System](https://github.com/akshaykumarhp/Driver-Monitoring-System)                    | Built a machine learning-based driver monitoring system for detecting driver distraction, achieving 96.9% mAP in object detection using NVIDIA GPUs. Included a YOLOv5-based pipeline and magnetometer integration for improved accuracy. | Python, YOLOv5, TensorFlow, NVIDIA GPU    |
+| [EdTech Platform]                                     | Developed an interactive learning platform converting static textbook content into engaging material for children in grades 1-10. Included OCR technology and OpenAI API for automated lesson plan creation.   | OCR, OpenAI API, React, Node.js          |
+| [Driver Monitoring System]                   | Built a machine learning-based driver monitoring system for detecting driver distraction, achieving 96.9% mAP in object detection using NVIDIA GPUs. Included a YOLOv5-based pipeline and magnetometer integration for improved accuracy. | Python, YOLOv5, TensorFlow, NVIDIA GPU    |
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshaykumarhp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaykumarhp/)
+[![GitHub](https://github.com/Ashwin522)
+[![LinkedIn](https://www.linkedin.com/in/ash0210/)
 
 ## ⚡ Recent GitHub Activity
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumarhp&layout=compact&theme=radical)](https://github.com/akshaykumarhp)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumarhp&layout=compact&theme=radical)]([](https://github.com/Ashwin522))
 
 Thanks for stopping by! 😊
