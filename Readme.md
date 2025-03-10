@@ -1,14 +1,14 @@
-# Hi there, I'm Akshay Kumar Huliyar Prabhakara 👋
+# Hi there, I'm Ashwin Shankarnarayana 👋
 
 **Computer Science Graduate Student at Syracuse University | Software Engineer | Full-stack Developer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=akshaykumarhp&color=blueviolet&style=flat-square) 
+![Profile Views](https://komarev.com/ghpvc/?username=ashwinshankarnarayana&color=blueviolet&style=flat-square) 
 
 - 🔭 I’m currently working as a Graduate Research Assistant at Syracuse University, developing spectrum management algorithms and front-end components for the Zone Management System (ZMS) project.
 - 🌱 I’m currently expanding my knowledge in **Machine Learning**, **NLP**, and **Software Development**.
 - 👯 I’m open to collaborating on projects related to **Web Development**, **Machine Learning**, and **Cloud Computing**.
 - 💬 Ask me about **JavaScript, React.js, Python**, or anything related to **full-stack development**.
-- 📫 How to reach me: [ahuliyar@syr.edu](mailto:ahuliyar@syr.edu)
+- 📫 How to reach me: [ashwinshankarnarayana@syr.edu](mailto:ashwinshankarnarayana@syr.edu)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm passionate about creating user-friendly web applications and optimizing systems for performance and scalability.
 
@@ -71,17 +71,17 @@
 
 | **Project**                                                                                               | **Description**                                                                                                                                           | **Tech Stack**                           |
 |----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| [Personal Finance Management System](https://github.com/akshaykumarhp/Personal-Finance-Management-System) | Finance management tool with Next.js and Supabase, featuring secure data storage, and responsive UI using Tailwind CSS. Improved user engagement by 20%.    | Next.js, Supabase, Tailwind CSS          |
-| [Social Media Networking Site](https://github.com/akshaykumarhp/Interactify-socialmedia-project)          | Full-stack social media platform with React.js and Node.js, supporting 500+ users and real-time updates. Increased user retention by 40%.                  | React.js, Node.js, WebSockets            |
-| [Flight Arrival Status Prediction](https://github.com/akshaykumarhp/Flight-Arrival-Status-using-Random-Forest-Classifier) | Machine learning project using Random Forest Classifier, improved data analysis speed by 40%.                                                              | pandas, NumPy, scikit-learn              |
+| [Personal Finance Management System](https://github.com/ashwinshankarnarayana/Personal-Finance-Management-System) | Finance management tool with Next.js and Supabase, featuring secure data storage, and responsive UI using Tailwind CSS. Improved user engagement by 20%.    | Next.js, Supabase, Tailwind CSS          |
+| [Social Media Networking Site](https://github.com/ashwinshankarnarayana/Interactify-socialmedia-project)          | Full-stack social media platform with React.js and Node.js, supporting 500+ users and real-time updates. Increased user retention by 40%.                  | React.js, Node.js, WebSockets            |
+| [Flight Arrival Status Prediction](https://github.com/ashwinshankarnarayana/Flight-Arrival-Status-using-Random-Forest-Classifier) | Machine learning project using Random Forest Classifier, improved data analysis speed by 40%.                                                              | pandas, NumPy, scikit-learn              |
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshaykumarhp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaykumarhp/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashwinshankarnarayana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwinshankarnarayana/)
 
 ## ⚡ Recent GitHub Activity
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumarhp&layout=compact&theme=radical)](https://github.com/akshaykumarhp)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinshankarnarayana&layout=compact&theme=radical)](https://github.com/ashwinshankarnarayana)
 
 Thanks for stopping by! 😊
